@@ -27,8 +27,8 @@ const Portfolio = () => {
       description:
         'Portfolio Template built with react.js that helps me showcase my work and skills as a software developer',
       technologies: 'React | Bootstrap',
-      link: 'https://github.com/mostafa-aboelaela/',
-      github: 'https://github.com/mostafa-aboelaela/',
+      link: 'https://mostafa-abdalhmed-portfolio.netlify.app/',
+      github: 'https://github.com/mostafa-aboelaela/react-portfolio',
     },
     {
       id: 3,
